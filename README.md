@@ -2,7 +2,7 @@ Shell sized DBMS written in Rust
 -- 
 This is going to be an attempt in writing a toy DMBS in Rust to learn about databases.
 
-’m learning Rust as I build this project, so the implementation may evolve over time.
+I’m still learning as I go, so the implementation may evolve over time. It also may not be the most idiomatic Rust, as I’m still new to the ecosystem.
 
 ### Refrences
 - https://cstack.github.io/db_tutorial/
